@@ -121,3 +121,6 @@ secrets.toml
 #frontend/assets/uploads/
 #frontend/assets/studio/
 #frontend/assets/seed_photos/
+
+=0.23.0
+.claude/
