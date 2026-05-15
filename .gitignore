@@ -1,0 +1,123 @@
+﻿# ===============================
+# Kaggle data (never commit)
+# ===============================
+data/
+
+# ===============================
+# Virtual environments
+# ===============================
+.venv/
+venv/
+
+# ===============================
+# Python cache
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# ===============================
+# Model artifacts
+# ===============================
+#src/model/*
+#!src/model/.gitkeep
+
+# Optional local model files (uncomment if you don't want binary artifacts in git)
+# *.pkl
+# *.joblib
+
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# OS / Editor
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===============================
+# Secrets and local config
+# ===============================
+.env
+.env.*
+*.env
+secrets.*
+config.secret*
+.aws/
+.gcp/
+credentials*
+token*
+
+# ===============================
+# API keys and authentication
+# ===============================
+api_key*
+apikey*
+auth_token*
+password*
+.streamlit/secrets.toml
+streamlit_config*
+
+# ===============================
+# Sensitive user data
+# ===============================
+*.key
+*.pem
+id_rsa*
+.ssh/
+config.secret*
+.aws/
+.gcp/
+credentials*
+token*
+
+# ===============================
+# API keys and authentication
+# ===============================
+api_key*
+apikey*
+auth_token*
+password*
+.streamlit/secrets.toml
+streamlitconfig*
+
+# ===============================
+# Local development artifacts
+# ===============================
+*.log
+*.tmp
+.DS_Store
+local_*
+debug_*
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.streamlit/secrets.toml
+secrets.toml
+*.secret
+*.credentials
+*.token
+*.pem
+*.key
+
+# ===============================
+# Logs and temporary files
+# ===============================
+*.log
+*.tmp
+*.temp
+
+# ===============================
+# AdoptSense runtime artifacts
+# ===============================
+#frontend/adoptsense.db
+#frontend/assets/uploads/
+#frontend/assets/studio/
+#frontend/assets/seed_photos/
