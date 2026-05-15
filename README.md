@@ -67,7 +67,7 @@ password, shelter name, phone number, and shelter location (country + city). Aft
 - **Photo Studio** — FLUX.1-Kontext (Black Forest Labs via Hugging Face) transforms each pet photo
   into a professional studio portrait with studio lighting, seamless backdrop, and contact shadow;
   falls back to rembg + PIL if HF token is unavailable or quota is exhausted. AI-enhanced photos
-  are labelled with a transparent ✨ badge on the listing card
+  are marked with a transparent ✨ badge on the listing card
 - **AI adoption speed prediction** — XGBoost predicts adoption speed (0–4) with confidence;
   displayed as actionable listing recommendations, not raw time predictions
 - **Edit listings** — full editing form identical to create, including voice memo, AI description,
