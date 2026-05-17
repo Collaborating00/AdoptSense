@@ -6,7 +6,7 @@ listings, photo studio tools, comprehensive KPI tracking, live chat, shelter map
 surveys, admin dashboard, and role-based access. All Gemini features use the `google-genai` SDK (v1.0+).
 
 **Course:** AI Impact on Business
-**Team:** 71078, 70355, 71929, 72179
+**Team:** TXA11 | 71078, 70355, 71929, 72179
 
 ---
 
