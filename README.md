@@ -5,7 +5,7 @@ Built on the Kaggle PetFinder.my dataset; powered by a Streamlit frontend with A
 listings, photo studio tools, comprehensive KPI tracking, live chat, shelter maps, engagement
 surveys, admin dashboard, and role-based access. All Gemini features use the `google-genai` SDK (v1.0+).
 
-**Course:** AI Impact on Business
+**Course:** AI Impact on Business  
 **Team:** TXA11 | 71078, 70355, 71929, 72179
 
 ---
